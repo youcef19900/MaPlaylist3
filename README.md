@@ -1,0 +1,218 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="🇫🇷 France",arte (France) (1080p)
+http://5.180.164.197:8080/ARTEFR/index.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", Boomerang (France) HD (720p)
+http://41.205.93.154/BOOMERANG/index.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", Canal+ Sport (France)
+http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", Cine Western (France)
+https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", Clubbing TV 
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", Comedy Central
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", Comedy Central
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central_en/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", Detective Conan France
+https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", Discovery Channel
+http://192.99.186.30/stream/68/index.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", Disney Jr.
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", Eurosport
+http://103.253.74.210:7070/stream/122/index.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", France 2 
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", France 3
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", France 3 Cote d'Azur
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3_nice/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", France 3 Lorraine
+http://5.180.164.197:8080/FRANCE3/index.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", France 4
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", France 5
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", France 24
+https://freem3u.xyz/api/live/play.m3u8?vid=10007
+
+#EXTINF:-1 group-title="🇫🇷 France", France 24 Arabic
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", France 24 English 
+https://freem3u.xyz/api/live/play.m3u8?vid=96
+
+#EXTINF:-1 group-title="🇫🇷 France", France 24 English HD
+http://nmk.ioapk.com:5050/4gtv-live146/index.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", France 24 Spanish
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", Franceinfo
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_info/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", Investigation Discovery
+http://192.99.186.30/stream/81/index.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", Le Figaro TV Ile-de-France 
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", MCM Top
+http://185.228.163.146:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", MTV (France) 
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France",NatureTime France HD
+https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France",Nickelodeon (France)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", Nicktoons (France) (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nicktoons/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", Nouvelle Caledonie 1ere
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", Pluto TV Telerealite 
+https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France",  RT France
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", TV5Monde France Belgium Switzerland Monaco  
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/tv5_monde_fbs/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", TVR (France) 
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", TMC
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tmc_fr/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", TF1 (1080p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", TF1 Series Films
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1_series_films/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="🇫🇷 France", W9
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/w9_fr/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", M6 SD
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/m6_fr/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="🇫🇷 France", TFX 
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🇫🇷 France", 6ter 
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="🇫🇷 France", RMC Decouverte
+https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+
+
+#EXTINF:-1 group-title="🇫🇷 France", RMC Life
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+
+
+
+#EXTINF:-1 group-title="🇫🇷 France",LCI
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="🇫🇷 France", AB1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ab1/live.livx/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🇫🇷 France", Action
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/action/live.livx/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🇫🇷 France", Animaux
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/animaux/live.livx/playlist.m3u8 
+
+
+#EXTINF:-1 group-title="🇫🇷 France",Crime District
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/crime_district/live.livx/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🇫🇷 France", RTL9
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rtl_9/live.livx/playlist.m3u8
+
+
+#EXTINF:-2 group-title="dz Algeria ", AL24 News
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
+
+#EXTINF:-2 group-title="dz Algeria ", CNA ALGERIA
+https://136044159.r.cdnsun.net/storychannel.m3u8
+
+
+#EXTINF:-2 group-title="dz Algeria ", Entv
+https://games2.elahmad.store/tv24_www_elahmad._alegria_111/tracks-v1a1/mono.m3u8?token=6de965babf9f42f4644e26ce46bea51740e7bd72-4ed8770adf286b8ae4bab4dcf6d41f33-1795032840-1795031040
+
+
+
+#EXTINF:-2 group-title="dz Algeria ", Canal Algérie
+
+https://games2.elahmad.store/tv24_www_elahmad._alegria_2/tracks-v1a1/mono.m3u8?token=0bf91f068f9b52fa4120448384d86602fc28e9b5-ee0eece847d1eeaead1f45ccc60308e0-1795032953-1795031153
+
+
+#EXTINF:-1 group-title="dz Algeria ", Ennhar TV
+https://hls-distrib-eu0.dzsecurity.net/s/eyJpYXQiOjE3OTUwMzE2ODgsImNoYW5uZWxfaWQiOiJlbm5haGFydHYiLCJhc24iOjM2OTQ3LCJ0ZW5hbnRfaWQiOiJlbm5haGFydHYiLCJzZXNzaW9uX2lkIjoiNmQ3NDE5NGYtYTg2MS00NGU5LTgzMjMtZWY3NmViZThiZTMwIiwidiI6MSwia2lkIjoiZWRnZS12MSIsImV4cCI6MTc5NTA2MDQ4Nn0.KM4bwUvAFihVWlWbwdz495dvwxCx5PMQkp7ibY6acwg/hls/ennahartv/chunks.m3u8
+
+
+#EXTINF:-2 group-title="dz Algeria ", Echorouktv
+https://hls-distrib-eu0.dzsecurity.net/s/eyJpYXQiOjE3OTUwMzE3NDksImNoYW5uZWxfaWQiOiJlY2hvcm91a3R2IiwiYXNuIjozNjk0NywidGVuYW50X2lkIjoiZWNob3JvdWsiLCJzZXNzaW9uX2lkIjoiZTQ2ZWNjODktYjJhZS00NjJmLTliMDEtMmVkYjQ5NDIxMzA0IiwidiI6MSwia2lkIjoiZWRnZS12MSIsImV4cCI6MTc5NTA2MDU0OH0.KmSEqnmwyKpMhQXbxWTFkTNesFEeDBhItD8Q3CUFdv8/hls/echorouktv/chunks.m3u8
+
+
+#EXTINF:-2 group-title="dz Algeria ", Samiratv Tv 
+https://games2.elahmad.store/tv24_www_elahmad._samira_tv/tracks-v1a1/mono.m3u8?token=ba734bdfd324ecfc3e342ddd9f8b6717fd1975dd-98b75f00c6a2c9e10dc730db846662b4-1795033642-1795031842
+
+
+#EXTINF:-2 group-title="dz Algeria ",  El Bilad Tv
+https://games1.elahmad.store/tv24_www_elahmad._elbilad_tv/tracks-v1a1/mono.m3u8?token=5bbac2340a72aa28460dc08a5eb359f70e0b35db-0afdead41980b7614bf9375c529a2a58-1795033723-1795031923
+
+#EXTINF:-2 group-title="dz Algeria ", EL Hyat
+https://games2.elahmad.store/tv24_www_elahmad._elhayatonline/tracks-v1a1/mono.m3u8?token=0032abb8a0c8cb93ab399cce04b1969687487863-1dd7b8762e7a3fe5c533d5d1afcbe9f8-1795033946-1795032146
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
